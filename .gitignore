@@ -58,7 +58,7 @@ dkms.conf
 # Uni project binaries (don't upload these)
 testrealloc_s
 testrealloc_v
-testarr
+testrealloc
 extension
 
 # VSCode settings
